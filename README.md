@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Priyanshi Surana</h1>
-<h3 align="center">🚀 Final Year CSE Student | Full Stack Developer | AI Explorer</h3>
+<h3 align="center">🚀 Pre-Final Year CSE Student | Full Stack Developer | AI Explorer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshisurana&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshisurana" /> </p>
 
